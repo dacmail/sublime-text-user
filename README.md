@@ -10,6 +10,7 @@ My Sublime Text 3 configuration
 - [GitGutter](https://packagecontrol.io/packages/GitGutter)
 - [jQuery](https://packagecontrol.io/packages/jQuery)
 - [LESS](https://packagecontrol.io/packages/LESS)
+- [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
 - [One Dark Color Scheme](https://packagecontrol.io/packages/One%20Dark%20Color%20Scheme)
 - [Package Control](https://packagecontrol.io/packages/Package%20Control)
 - [SASS](https://packagecontrol.io/packages/Sass)
