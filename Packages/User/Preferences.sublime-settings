@@ -84,7 +84,7 @@
 	"shift_tab_unindent": true,
 	"tab_size": 2,
 	"tabs_small": false,
-	"theme": "Default.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
