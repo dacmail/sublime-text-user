@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<?php ${1:esc_html_e}('$SELECTION', '${2:ungrynerd}'); ?>]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>translate</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Translate selection</description>
+</snippet>

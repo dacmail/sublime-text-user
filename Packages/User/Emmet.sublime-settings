@@ -1,0 +1,6 @@
+{
+    "show_css_completions": false,
+    "css_completions_scope": "",
+    "disable_tab_abbreviations_on_auto_complete": true,
+    "disable_tab_abbreviations_for_scopes": "source.css - meta.selector.css - meta.property-value.css, source.scss - meta.selector.scss - meta.property-value.scss, source.less - meta.selector.css - meta.property-value.css",
+}
