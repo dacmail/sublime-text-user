@@ -21,6 +21,9 @@
 		"*/min/*.map"
 	],
 	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 3,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
 	"default_line_ending": "unix",
@@ -67,12 +70,17 @@
 		"subpixel_antialias"
 	],
 	"font_face": "monaco",
-	"font_size": 15,
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -87,6 +95,7 @@
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
 	"word_wrap": true,
 	"wrap_width": 180
 }
